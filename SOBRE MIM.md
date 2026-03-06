@@ -1,4 +1,4 @@
------------------------------------------------------------------Minha Jornada na Linguagem C e C++ ---------------------------------------------------------------------------
+=== Minha Jornada na Linguagem C e C++ ===
 
 
 Este repositório marca o início da minha trajetória de aprendizado em C e C++.
