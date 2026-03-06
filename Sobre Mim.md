@@ -2,14 +2,7 @@
 
 
 Este repositório marca o início da minha trajetória de aprendizado em C e C++.
-Aqui estão reunidos desde os primeiros conceitos fundamentais que aprendi como o clássico Olá, Mundo!
-|========================|
-| #include <stdio.io>    |
-| int main(){            |
-| printf("Olá, Mundo!"); |
-| return 0;              |
-| }                      |
-|========================|
+Aqui estão reunidos desde os primeiros conceitos fundamentais que aprendi como o clássico printf("Olá, Mundo!");
 até projetos mais complexos que aplicam estruturas básicas da linguagem que comentarei abaixo.
 
 /// Conteúdos ///
