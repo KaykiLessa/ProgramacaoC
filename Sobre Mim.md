@@ -1,5 +1,6 @@
 === Minha Jornada na Linguagem C e C++ ===
 
+
 Este repositório marca o início da minha trajetória de aprendizado em C e C++.
 Aqui estão reunidos desde os primeiros conceitos fundamentais — como o clássico printf("Olá, Mundo"); — até projetos mais complexos que aplicam estruturas básicas da linguagem.
 
